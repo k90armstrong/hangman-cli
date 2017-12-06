@@ -1,0 +1,22 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "Hangman in the terminal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k90armstrong/hangman-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k90armstrong/hangman-cli/issues"
+  },
+  "homepage": "https://github.com/k90armstrong/hangman-cli#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
+}
